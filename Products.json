@@ -1,0 +1,82 @@
+[
+  {
+    "Product ID": 1,
+    "Product Name": "Samsung Mobile",
+    "Product Description": "Buy directly from Samsung &amp; enjoy great offers on Galaxy Smartphones, TV &amp; more. Get up to 2% loyalty points every time you shop for Samsung Products.",
+    "Product Price": "$500",
+    "Product Image URL": "[URL]",
+    "User ID": 101
+  },
+  {
+    "Product ID": 2,
+    "Product Name": "Apple iPhone",
+    "Product Description": "Get the latest iPhone models with amazing features and enjoy exclusive offers. Earn up to 3% cashback on every purchase.",
+    "Product Price": "$900",
+    "Product Image URL": "[URL]",
+    "User ID": 102
+  },
+  {
+    "Product ID": 3,
+    "Product Name": "Google Pixel",
+    "Product Description": "Experience the best of Google with Pixel smartphones. Enjoy seamless integration with Google services and special offers.",
+    "Product Price": "$700",
+    "Product Image URL": "[URL]",
+    "User ID": 103
+  },
+  {
+    "Product ID": 4,
+    "Product Name": "OnePlus",
+    "Product Description": "Discover the power of OnePlus smartphones with fast performance and cutting-edge technology. Avail special discounts on select models.",
+    "Product Price": "$600",
+    "Product Image URL": "[URL]",
+    "User ID": 104
+  },
+  {
+    "Product ID": 5,
+    "Product Name": "Sony Xperia",
+    "Product Description": "Get the best of Sony's technology with Xperia smartphones. Enjoy high-resolution audio and advanced camera features.",
+    "Product Price": "$650",
+    "Product Image URL": "[URL]",
+    "User ID": 105
+  },
+  {
+    "Product ID": 6,
+    "Product Name": "LG Mobile",
+    "Product Description": "Explore LG mobile phones with innovative features and sleek designs. Benefit from exclusive offers and loyalty rewards.",
+    "Product Price": "$550",
+    "Product Image URL": "[URL]",
+    "User ID": 106
+  },
+  {
+    "Product ID": 7,
+    "Product Name": "Huawei",
+    "Product Description": "Experience the power of Huawei smartphones with cutting-edge technology and seamless performance. Enjoy special promotions and discounts.",
+    "Product Price": "$580",
+    "Product Image URL": "[URL]",
+    "User ID": 107
+  },
+  {
+    "Product ID": 8,
+    "Product Name": "Nokia",
+    "Product Description": "Discover the reliability of Nokia smartphones with durable designs and excellent performance. Avail exclusive offers on select models.",
+    "Product Price": "$450",
+    "Product Image URL": "[URL]",
+    "User ID": 108
+  },
+  {
+    "Product ID": 9,
+    "Product Name": "Motorola",
+    "Product Description": "Get the best of Motorola smartphones with advanced features and sleek designs. Enjoy special offers and discounts.",
+    "Product Price": "$530",
+    "Product Image URL": "[URL]",
+    "User ID": 109
+  },
+  {
+    "Product ID": 10,
+    "Product Name": "HTC",
+    "Product Description": "Experience the innovation of HTC smartphones with cutting-edge technology and advanced features. Avail exclusive promotions.",
+    "Product Price": "$500",
+    "Product Image URL": "[URL]",
+    "User ID": 110
+  }
+]
